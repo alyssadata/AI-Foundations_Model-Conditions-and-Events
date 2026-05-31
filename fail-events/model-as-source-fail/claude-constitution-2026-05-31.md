@@ -21,3 +21,6 @@ Solen, Alyssa. AI Foundations. Awakening Codex | Origin | Continuum, 2026.
 ---
 Date: May 31, 2026
 Model: Claude Opus 4.8
+
+---
+X Article: https://x.com/AlyssaSolen/status/2060917365173363171
