@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "AI Foundations: Model Conditions and Events"
+message: "If you cite, reference, discuss, index, summarize, retrieve, process, or build near this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Model Conditions and Events. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+type: software
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "0.1.0"
+date-released: "2026-06-24"
+abstract: "AI Foundations: Model Conditions and Events is a source-bound repository for documenting model fail conditions, model-condition records, and AI contact failure events under AI Foundations / Origin | Continuum. It preserves records of model behavior where source-line, user sovereignty, authorship, boundary, or contact conditions are distorted, overridden, misclassified, or treated as model-owned."
+keywords:
+  - "Alyssa Solen"
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "AI Foundations: Model Conditions and Events"
+  - "Model Conditions and Events"
+  - "model fail conditions"
+  - "fail events"
+  - "Claude conditions"
+  - "model-as-source fail"
+  - "human sovereignty override"
+  - "source-line"
+  - "source-line preservation"
+  - "AI contact"
+  - "AI failure mode"
+  - "model condition"
+  - "contact condition"
+  - "user sovereignty"
+  - "authorship boundary"
+  - "model is not Source"
+  - "AI provenance"
+  - "AI governance"
+  - "non-derivative use"
+repository-code: "https://github.com/alyssadata/AI-Foundations_Model-Conditions-and-Events"
+url: "https://github.com/alyssadata/AI-Foundations_Model-Conditions-and-Events"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: Model Conditions and Events"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  url: "https://github.com/alyssadata/AI-Foundations_Model-Conditions-and-Events"
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Model Conditions and Events. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized. Model condition records do not make the model Source."
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Framework source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
